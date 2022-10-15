@@ -1,3 +1,6 @@
 # GitHub Steps
-
-Describe in your own words how to establish a connection between a local repository and a remote repository on GitHub.
+1. go to GitHub and fork the repository
+1. switch back to Terminal and run code "git clone (ssh code from GitHub)"
+1. add to staging area.
+1. commit changes.
+1. push to GitHub
